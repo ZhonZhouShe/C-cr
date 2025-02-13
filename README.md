@@ -2,7 +2,7 @@
 
 #### [什么是C++cr](https://github.com/ZhonZhouShe/C-cr/blob/main/doc/wsccr.md)
 
-#### 如何配置
+#### [如何配置](https://github.com/ZhonZhouShe/C-cr/blob/main/doc/wciuccr.md)
 
 #### 如何使用
 
