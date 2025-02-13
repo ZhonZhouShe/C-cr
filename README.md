@@ -1,6 +1,6 @@
 ## 欢迎使用C++cr编译器
 
-#### 什么是C++cr
+#### [什么是C++cr](https://github.com/ZhonZhouShe/C-cr/blob/main/doc/wsccr.md)
 
 #### 如何配置
 
