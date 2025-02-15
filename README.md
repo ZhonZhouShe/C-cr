@@ -8,4 +8,4 @@
 
 #### 帮助面板
 
-#### 提交BUG或意见
+#### [提交BUG或意见](https://github.com/ZhonZhouShe/C-cr/issues)
