@@ -1,4 +1,4 @@
-## 欢迎使用C++cr编译器
+## 欢迎使用C++cr编译插件
 
 #### [什么是C++cr](https://github.com/ZhonZhouShe/C-cr/blob/main/doc/wsccr.md)
 
