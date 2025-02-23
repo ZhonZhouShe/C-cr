@@ -17,7 +17,7 @@ ___
 # English
 
 
-## Welcome to use the C++ compiler.
+## Welcome to use the C++cr compiler.
 
 #### [What's the C++cr?](https://github.com/ZhonZhouShe/C-cr/blod/main/doc/wsccr.md)
 
