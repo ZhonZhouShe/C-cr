@@ -5,4 +5,5 @@ C++cr是由[syisjr](https://github.com/syisjr)和[中周氏](https://github.com/
 ___
 
 # English
-update...
+## What is C++Cr
+C++cr is a project jointly developed by syisjr and ZhonZhouShe, based on the C++ language. It is a C++ compilation plugin that solves the problem of VSCode's inability to support spaces and Chinese characters in file names. More features will be developed in the future.
